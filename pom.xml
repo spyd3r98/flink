@@ -110,6 +110,7 @@ under the License.
 	</modules>
 
 	<properties>
+		<sonar.organization>spyd3r98</sonar.organization>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<flink.hadoop.version>2.10.2</flink.hadoop.version>
